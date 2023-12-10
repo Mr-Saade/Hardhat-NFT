@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+.vscode
+
+# Hardhat files
+cache
+artifacts
+gas_reporter.txt
+deployments
+yarn-error.log
+yarn.lock
